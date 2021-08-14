@@ -1,8 +1,10 @@
 # XML 
 
-
-
-
+![alt text](https://github.com/AbhijithMogaveera/XML/blob/main/img_1.jpg)
+![alt text](https://github.com/AbhijithMogaveera/XML/blob/main/img_2.jpg)
+![alt text](https://github.com/AbhijithMogaveera/XML/blob/main/img_3.jpg)
+![alt text](https://github.com/AbhijithMogaveera/XML/blob/main/img_4.jpg)
+![alt text](https://github.com/AbhijithMogaveera/XML/blob/main/img_6.jpg)
 
 <?xml version="1.0" encoding="utf-8"?>
 
@@ -320,8 +322,3 @@
 
 </layer-list>
 
-![alt text](https://github.com/AbhijithMogaveera/XML/blob/main/img_1.jpg)
-![alt text](https://github.com/AbhijithMogaveera/XML/blob/main/img_2.jpg)
-![alt text](https://github.com/AbhijithMogaveera/XML/blob/main/img_3.jpg)
-![alt text](https://github.com/AbhijithMogaveera/XML/blob/main/img_4.jpg)
-![alt text](https://github.com/AbhijithMogaveera/XML/blob/main/img_6.jpg)
